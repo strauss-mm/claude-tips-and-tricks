@@ -1,7 +1,8 @@
 ---
 title: "MCP Servers — Give Claude Superpowers"
 date: 2026-06-12
-category: MCP & Tools
+tags: MCP & Tools
+layout: post
 ---
 
 ## The Tip

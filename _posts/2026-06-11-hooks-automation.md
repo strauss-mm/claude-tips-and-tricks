@@ -1,7 +1,8 @@
 ---
 title: "Hooks — Automate Repetitive Workflows"
 date: 2026-06-11
-category: Advanced Patterns
+tags: Advanced Patterns
+layout: post
 ---
 
 ## The Tip

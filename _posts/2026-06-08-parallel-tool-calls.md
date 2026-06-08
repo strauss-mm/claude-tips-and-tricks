@@ -1,7 +1,8 @@
 ---
 title: "Parallel Tool Calls — Do More in Less Time"
 date: 2026-06-08
-category: Shortcuts & Speed
+tags: Shortcuts & Speed
+layout: post
 ---
 
 ## The Tip

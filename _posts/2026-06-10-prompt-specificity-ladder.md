@@ -1,7 +1,8 @@
 ---
 title: "The Specificity Ladder — Level Up Your Prompts"
 date: 2026-06-10
-category: Prompt Engineering
+tags: Prompt Engineering
+layout: post
 ---
 
 ## The Tip

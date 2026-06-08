@@ -4,15 +4,3 @@ baseurl: "/claude-tips-and-tricks"
 url: "https://strauss-mm.github.io"
 theme: minima
 markdown: kramdown
-
-collections:
-  tips:
-    output: true
-    permalink: /tips/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: "tips"
-    values:
-      layout: "post"

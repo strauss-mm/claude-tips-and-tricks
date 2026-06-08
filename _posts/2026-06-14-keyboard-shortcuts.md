@@ -1,7 +1,8 @@
 ---
 title: "Keyboard Shortcuts That Save Hours"
 date: 2026-06-14
-category: Shortcuts & Speed
+tags: Shortcuts & Speed
+layout: post
 ---
 
 ## The Tip

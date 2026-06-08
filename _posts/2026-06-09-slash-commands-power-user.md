@@ -1,7 +1,8 @@
 ---
 title: "Slash Commands You're Probably Not Using"
 date: 2026-06-09
-category: Shortcuts & Speed
+tags: Shortcuts & Speed
+layout: post
 ---
 
 ## The Tip

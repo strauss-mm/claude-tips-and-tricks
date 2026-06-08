@@ -1,7 +1,8 @@
 ---
 title: "Context Window Mastery — Never Lose Your Place"
 date: 2026-06-13
-category: Advanced Patterns
+tags: Advanced Patterns
+layout: post
 ---
 
 ## The Tip
