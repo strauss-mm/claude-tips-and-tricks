@@ -1,7 +1,7 @@
 title: Claude Tips & Tricks
 description: Daily tips for mastering Claude Code — shortcuts, prompt engineering, DevSecOps workflows
-baseurl: ""
-url: "https://strauss-mm.github.io/claude-tips-and-tricks"
+baseurl: "/claude-tips-and-tricks"
+url: "https://strauss-mm.github.io"
 theme: minima
 markdown: kramdown
 
@@ -15,4 +15,4 @@ defaults:
       path: ""
       type: "tips"
     values:
-      layout: "tip"
+      layout: "post"

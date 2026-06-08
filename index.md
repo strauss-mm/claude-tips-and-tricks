@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Claude Tips & Tricks
 ---
 
@@ -25,7 +25,7 @@ Daily tips for mastering Claude Code, prompt engineering, and DevSecOps workflow
 
 {% assign sorted_tips = site.tips | sort: 'date' | reverse %}
 {% for tip in sorted_tips %}
-### [{{ tip.title }}]({{ tip.url }})
+### [{{ tip.title }}]({{ tip.url | relative_url }})
 *{{ tip.date | date: "%B %d, %Y" }}* — {{ tip.category }}
 
 {{ tip.excerpt }}
